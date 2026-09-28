@@ -8,8 +8,8 @@
 [![Solved](https://img.shields.io/badge/已解决-177%20题-brightgreen?style=flat-square)](#-刷题进度)
 [![Language](https://img.shields.io/badge/语言-Python%20%7C%20C%20%7C%20C%2B%2B-blue?style=flat-square)](#-技术栈)
 [![Last Commit](https://img.shields.io/github/last-commit/thebland/your-repo?style=flat-square&color=purple)](https://github.com/thebland/your-repo/commits)
+[![Stars](https://img.shields.io/github/stars/thebland/your-repo?style=flat-square&color=yellow)](https://github.com/thebland/your-repo/stargazers)
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=thebland&theme=dark" alt="LeetCode Badges" />
 
 </div>
 
