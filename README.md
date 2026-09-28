@@ -7,9 +7,10 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-TheBland-orange?logo=leetcode&logoColor=white)](https://leetcode.cn/u/thebland/)
 [![Solved](https://img.shields.io/badge/已解决-177%20题-brightgreen?style=flat-square)](#-刷题进度)
 [![Language](https://img.shields.io/badge/语言-Python%20%7C%20C%20%7C%20C%2B%2B-blue?style=flat-square)](#-技术栈)
-[![Last Commit](https://img.shields.io/github/last-commit/thebland/your-repo?style=flat-square&color=purple)](https://github.com/thebland/your-repo/commits)
-[![Stars](https://img.shields.io/github/stars/thebland/your-repo?style=flat-square&color=yellow)](https://github.com/thebland/your-repo/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/thebland/TheBland-Codes?style=flat-square&color=purple)](https://github.com/thebland/TheBland-Codes/commits)
+[![Stars](https://img.shields.io/github/stars/thebland/TheBland-Codes?style=flat-square&color=yellow)](https://github.com/thebland/TheBland-Codes/stargazers)
 
+<img src="https://leetcard.jacoblin.cool/thebland?theme=dark&font=Karma&ext=contest&site=cn" alt="LeetCode Stats Card" />
 
 </div>
 
@@ -22,21 +23,13 @@
 对我而言，刷题不只是为了通过面试，更是训练思维方式的过程——把模糊的直觉拆解成清晰的步骤，把重复的套路沉淀成可复用的模板。
 
 > 🎯 **目标**：稳定输出，长期主义。宁可慢，不可断。
->
-> 目前累计提交 483 次，提交天数 139 天，正在保持节奏。
 
 ---
 
 ## 📊 刷题进度
 
-| 难度 | 已解决 | 总题数 | 进度 |
-| :---: | :---: | :---: | :--- |
-| 🟢 简单 | 70 | 1088 | `██████░░░░` 6.4% |
-| 🟡 中等 | 87 | 2319 | `███░░░░░░░` 3.8% |
-| 🔴 困难 | 20 | 1049 | `█░░░░░░░░░` 1.9% |
-| **总计** | **177** | **4456** | `███░░░░░░░` 4.0% |
-
-> 通过率 65.84%，击败 72.97% 的用户。继续打磨，把通过率拉到 75%+。
+<!-- AUTO:PROGRESS:START -->
+<!-- AUTO:PROGRESS:END -->
 
 ---
 
@@ -92,11 +85,8 @@
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 
-| 语言 | 解题数 | 用途 |
-| :---: | :---: | :--- |
-| Python3 | 175 | 主力语言，快速表达思路 |
-| C++ | 2 | 对比 STL 与性能写法 |
-| C | 1 | 手写底层结构，理解内存 |
+<!-- AUTO:LANGUAGE:START -->
+<!-- AUTO:LANGUAGE:END -->
 
 ---
 
@@ -141,8 +131,8 @@
 3. 想找某个专题的套路，去 [`Templates/`](./Templates) 和 [`Notes/`](./Notes) 翻模板。
 
 ```bash
-git clone https://github.com/thebland/your-repo.git
-cd your-repo
+git clone https://github.com/thebland/TheBland-Codes.git
+cd TheBland-Codes
 ```
 
 ---
@@ -159,14 +149,13 @@ cd your-repo
 
 ## 📈 竞赛与成就
 
-| 指标 | 数据 |
-| :--- | :--- |
-| 竞赛分数 | 1460 |
-| 参赛总数 | 2 场 |
-| 全球排名 | 177 / 4456 |
-| 勋章成就 | 4 枚（含月度每日一题全部完成） |
+<!-- AUTO:CONTEST:START -->
+<!-- AUTO:CONTEST:END -->
 
-> 再参加 4 场竞赛即可获得全球排名资格。保持输出，稳步提升。
+> 🏅 勋章成就：4 枚（含月度每日一题全部完成）
+
+<!-- AUTO:UPDATED:START -->
+<!-- AUTO:UPDATED:END -->
 
 ---
 
