@@ -7,8 +7,8 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-TheBland-orange?logo=leetcode&logoColor=white)](https://leetcode.cn/u/thebland/)
 [![Solved](https://img.shields.io/badge/已解决-177%20题-brightgreen?style=flat-square)](#-刷题进度)
 [![Language](https://img.shields.io/badge/语言-Python%20%7C%20C%20%7C%20C%2B%2B-blue?style=flat-square)](#-技术栈)
-[![Last Commit](https://img.shields.io/github/last-commit/thebland/TheBland-Codes?style=flat-square&color=purple)](https://github.com/thebland/TheBland-Codes/commits)
-[![Stars](https://img.shields.io/github/stars/thebland/TheBland-Codes?style=flat-square&color=yellow)](https://github.com/thebland/TheBland-Codes/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/TheBland73/TheBland-Codes?style=flat-square&color=purple)](https://github.com/TheBland73/TheBland-Codes/commits)
+[![Stars](https://img.shields.io/github/stars/TheBland73/TheBland-Codes?style=flat-square&color=yellow)](https://github.com/TheBland73/TheBland-Codes/stargazers)
 
 <img src="https://leetcard.jacoblin.cool/thebland?theme=dark&font=Karma&ext=contest&site=cn" alt="LeetCode Stats Card" />
 
@@ -138,7 +138,7 @@ _暂无数据_
 3. 想找某个专题的套路，去 [`Templates/`](./Templates) 和 [`Notes/`](./Notes) 翻模板。
 
 ```bash
-git clone https://github.com/thebland/TheBland-Codes.git
+git clone https://github.com/TheBland73/TheBland-Codes.git
 cd TheBland-Codes
 ```
 
@@ -172,6 +172,6 @@ _暂无竞赛数据_
 
 **如果这个仓库对你有帮助，欢迎点个 ⭐ Star**
 
-Made with ☕ and 🧠 by [TheBland](https://github.com/thebland)
+Made with ☕ and 🧠 by [TheBland73](https://github.com/TheBland73)
 
 </div>
