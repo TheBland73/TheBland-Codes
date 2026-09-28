@@ -29,6 +29,12 @@
 ## 📊 刷题进度
 
 <!-- AUTO:PROGRESS:START -->
+| 难度 | 已解决 | 总题数 | 进度 |
+| :---: | :---: | :---: | :--- |
+| 🟢 简单 | 70 | 1088 | `█░░░░░░░░░` 6.4% |
+| 🟡 中等 | 87 | 2319 | `░░░░░░░░░░` 3.8% |
+| 🔴 困难 | 20 | 1049 | `░░░░░░░░░░` 1.9% |
+| **总计** | **177** | **4456** | `░░░░░░░░░░` 4.0% |
 <!-- AUTO:PROGRESS:END -->
 
 ---
@@ -86,6 +92,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 
 <!-- AUTO:LANGUAGE:START -->
+_暂无数据_
 <!-- AUTO:LANGUAGE:END -->
 
 ---
@@ -150,11 +157,13 @@ cd TheBland-Codes
 ## 📈 竞赛与成就
 
 <!-- AUTO:CONTEST:START -->
+_暂无竞赛数据_
 <!-- AUTO:CONTEST:END -->
 
 > 🏅 勋章成就：4 枚（含月度每日一题全部完成）
 
 <!-- AUTO:UPDATED:START -->
+🕒 最后更新：2026-09-28 22:29 (UTC+8)
 <!-- AUTO:UPDATED:END -->
 
 ---
