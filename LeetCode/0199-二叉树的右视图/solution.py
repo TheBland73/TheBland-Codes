@@ -18,15 +18,15 @@ class Solution:
         res.append(root.val)
 
         #确定每层处理，通过统计处理前每层的节点数进行实现
+        #核心在于用size控制每一层的节点进出队列，这样便于进行最右侧节点标记
         while d:
             size = len(d)
             for _ in range(size):
                 node = d.popleft()
-                if node != None and node.left:
+                if node.left:
                     d.append(node.left)
-                if node != None and node.right:
+                if node.right:
                     d.append(node.right)
             if d:  #非空
                 res.append(d[-1].val)
-
         return res    
