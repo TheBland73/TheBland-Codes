@@ -5,7 +5,7 @@
 **记录每一次思考，见证每一步成长。**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-TheBland-orange?logo=leetcode&logoColor=white)](https://leetcode.cn/u/thebland/)
-[![Solved](https://img.shields.io/badge/已解决-183%20题-brightgreen?style=flat-square)](#-刷题进度)
+[![Solved](https://img.shields.io/badge/已解决-184%20题-brightgreen?style=flat-square)](#-刷题进度)
 [![Language](https://img.shields.io/badge/语言-Python%20%7C%20C%20%7C%20C%2B%2B-blue?style=flat-square)](#-技术栈)
 [![Last Commit](https://img.shields.io/github/last-commit/TheBland73/TheBland-Codes?style=flat-square&color=purple)](https://github.com/TheBland73/TheBland-Codes/commits)
 [![Stars](https://img.shields.io/github/stars/TheBland73/TheBland-Codes?style=flat-square&color=yellow)](https://github.com/TheBland73/TheBland-Codes/stargazers)
@@ -32,9 +32,9 @@
 | 难度 | 已解决 | 总题数 | 进度 |
 | :---: | :---: | :---: | :--- |
 | 🟢 简单 | 70 | 1088 | `█░░░░░░░░░` 6.4% |
-| 🟡 中等 | 93 | 2319 | `░░░░░░░░░░` 4.0% |
+| 🟡 中等 | 94 | 2319 | `░░░░░░░░░░` 4.1% |
 | 🔴 困难 | 20 | 1049 | `░░░░░░░░░░` 1.9% |
-| **总计** | **183** | **4456** | `░░░░░░░░░░` 4.1% |
+| **总计** | **184** | **4456** | `░░░░░░░░░░` 4.1% |
 <!-- AUTO:PROGRESS:END -->
 
 ---
@@ -163,7 +163,7 @@ _暂无竞赛数据_
 > 🏅 勋章成就：4 枚（含月度每日一题全部完成）
 
 <!-- AUTO:UPDATED:START -->
-🕒 最后更新：2026-10-04 11:37 (UTC+8)
+🕒 最后更新：2026-10-05 11:20 (UTC+8)
 <!-- AUTO:UPDATED:END -->
 
 ---
